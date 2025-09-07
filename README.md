@@ -1,5 +1,7 @@
 # Todo REST API (Go + chi)
 
+[![CI](https://github.com/parthmeh/todo-rest/actions/workflows/ci.yml/badge.svg)](https://github.com/parthmeh/todo-rest/actions/workflows/ci.yml)
+
 A simple RESTful API for managing todos, built in Go using the [chi](https://github.com/go-chi/chi) router.  
 This project demonstrates clean project structure, an in-memory store, and basic CRUD operations with JSON.
 
